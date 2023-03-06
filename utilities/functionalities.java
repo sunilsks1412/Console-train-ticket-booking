@@ -1,6 +1,7 @@
-package sample;
-import sample.user;
+package utilities;
 import java.util.*;
+
+import utilities.user;
 
 public class functionalities
 {

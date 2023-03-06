@@ -1,7 +1,8 @@
 import java.util.*;
-import sample.functionalities;
-import sample.services;
-import sample.user;
+
+import utilities.functionalities;
+import utilities.services;
+import utilities.user;
 
 public class Main
 {
